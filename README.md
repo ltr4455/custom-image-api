@@ -6,6 +6,13 @@
 > 由 Codex 生成。这个仓库封装了一个 Codex 技能，用于通过用户自定义的
 > HTTP 图像 API 生成或编辑位图图像。
 
+This skill was created to make image-model workflows available to people who
+use Codex through other channels and still want a simple way to call a graphics
+model.
+
+这个技能的初衷，是方便那些通过其他渠道使用 Codex 的人，也能顺手
+调用图形模型。
+
 This skill is useful when an image endpoint is exposed through a local proxy,
 an OpenAI-compatible API, a nonstandard provider, or a private gateway.
 
