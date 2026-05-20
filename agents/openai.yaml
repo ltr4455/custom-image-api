@@ -1,0 +1,3 @@
+display_name: Custom Image API
+short_description: Generate or edit images through a user-provided image API endpoint.
+default_prompt: Use my configured image API endpoint to generate or edit an image from this prompt.

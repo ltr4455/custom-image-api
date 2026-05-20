@@ -1,0 +1,7 @@
+.env
+.DS_Store
+
+# Local outputs from manual image API tests.
+outputs/
+*.tmp
+
